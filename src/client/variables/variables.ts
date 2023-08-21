@@ -1,0 +1,1 @@
+export const limits: number = 3
